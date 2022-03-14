@@ -1,0 +1,8 @@
+astor==0.8.1
+graphviz==0.19.1
+imageio==2.16.1
+numpy==1.22.3
+Pillow==9.0.1
+pydot==1.4.2
+pyglet==1.5.22
+pyparsing==3.0.7
